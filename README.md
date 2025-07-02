@@ -71,6 +71,6 @@ Sou um **Desenvolvedor Full-Stack** com mais de **5 anos de experiência** na cr
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eumelv&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
