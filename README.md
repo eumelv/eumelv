@@ -10,11 +10,11 @@
 
 ---
 
-### 💼 Sobre mim
+### Sobre mim
 
 Sou um **Desenvolvedor Full-Stack** com mais de **5 anos de experiência** na criação de aplicações web escaláveis, performáticas e seguras.
 
-✨ **Apaixonado por transformar ideias complexas em soluções simples**, trabalhando com tecnologias modernas e contribuindo para projetos de alto impacto.
+** Apaixonado por transformar ideias complexas em soluções simples**, trabalhando com tecnologias modernas e contribuindo para projetos de alto impacto.
 
 ---
 
