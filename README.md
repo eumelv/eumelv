@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Eumelvi Faustino | Full-Stack Developer 🚀</h1>
+<h1 align="center">Eumelvi Faustino | Full-Stack & Mobile Developer</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-C%23-68217A?style=flat&logo=c-sharp&logoColor=white"/>
